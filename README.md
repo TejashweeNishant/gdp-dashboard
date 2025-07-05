@@ -16,8 +16,8 @@ A sleek and interactive Streamlit dashboard to visualize, compare, and analyze G
 - Pandas
 
 ## 🚀 Try it Live
-[Click to Launch](https://yourusername-gdp-dashboard.streamlit.app)
+[Click to Launch](https://gdp-dashboard-zesnh6kzrn6apkmxedw8gc.streamlit.app/)
 
 ---
 
-Designed by [Tejashwee Nishant](https://github.com/yourusername)
+Designed by [Tejashwee Nishant].
